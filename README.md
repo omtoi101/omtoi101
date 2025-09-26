@@ -151,7 +151,3 @@ If you find my projects helpful, consider:
 - ⭐ Starring repositories you find useful
 - 🍴 Forking projects to contribute improvements
 - 🐛 Reporting issues or suggesting features
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omtoi101&style=for-the-badge&color=red" alt="Profile Views"/>
-</div>
