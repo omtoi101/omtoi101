@@ -133,6 +133,7 @@ Specializations:
   <img src="https://img.shields.io/badge/Total_Repos-18+-blue?style=for-the-badge" alt="Total Repos"/>
   <img src="https://img.shields.io/badge/Stars_Earned-9+-yellow?style=for-the-badge" alt="Stars Earned"/>
   <img src="https://img.shields.io/badge/Main_Languages-Python%20|%20Java-green?style=for-the-badge" alt="Main Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=omtoi101&style=for-the-badge&color=red" alt="Profile Views"/>
 </div>
 
 ## Ethical Use Statement
@@ -150,3 +151,7 @@ If you find my projects helpful, consider:
 - ⭐ Starring repositories you find useful
 - 🍴 Forking projects to contribute improvements
 - 🐛 Reporting issues or suggesting features
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omtoi101&style=for-the-badge&color=red" alt="Profile Views"/>
+</div>
